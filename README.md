@@ -5,7 +5,7 @@
 
 Submitted by: **Subohi Agarwal**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -21,10 +21,10 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
+## GIF 
 
-## Notes
+(https://i.imgur.com/pEetC6R.gif)
 
-Describe any challenges encountered while building the app.
 
 ## License
 
